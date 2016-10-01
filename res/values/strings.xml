@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Chapter08</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="c08_b1">通知</string>
+    <string name="c08_b2">短信</string>
+    <string name="c08_b3">拍照</string>
+    <string name="c08_b4">音乐</string>
+    <string name="c08_b5">视频</string>
+    <string name="b1_send_notice">发送通知</string>
+    <string name="notification_layout">通知布局页面</string>
+	<string name="b3_take_photo">调摄像头拍照</string>
+	<string name="b3_choose_from_album">选择相册</string>
+	
+    
+</resources>
